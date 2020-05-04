@@ -1,0 +1,28 @@
+{
+  "name": "excelapi",
+  "version": "1.0.0",
+  "description": "Create excel from JSON, download to FE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaypatil1/excelApi.git"
+  },
+  "keywords": [
+    "Excel"
+  ],
+  "author": "Akshay Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaypatil1/excelApi/issues"
+  },
+  "homepage": "https://github.com/akshaypatil1/excelApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "excel4node": "^1.7.2",
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  }
+}
